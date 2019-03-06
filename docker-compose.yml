@@ -1,0 +1,5 @@
+version: "3.7"
+services:
+  go-server:
+    image: "go-generatepdf"
+    volume: /home/rogerio/projetos:/opt
